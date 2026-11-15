@@ -28,6 +28,12 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 |---|---|---|---|
 | TwinDesk | Une tus computadoras y tu teléfono como un solo escritorio: pantallas, apps, archivos y portapapeles. | [koriano1980/TwinDesk](https://github.com/koriano1980/TwinDesk) | [InukaAsith/TwinDesk](https://github.com/InukaAsith/TwinDesk) |
 
+## 📱 iPhone / Widgets
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| att-usage-widget | Widget de Scriptable para ver el consumo de datos de AT&T en Estados Unidos (prepago o pospago). | [koriano1980/att-usage-widget](https://github.com/koriano1980/att-usage-widget) | Propio. AT&T US no tiene API pública; el post de BAIT/AT&T México no publicó repo. Lo más cercano para México es [amaynez/telcel-widget-agy](https://github.com/amaynez/telcel-widget-agy). |
+
 ## 🚗 Android Auto
 
 | Programa | Qué hace | Mi copia | Original |

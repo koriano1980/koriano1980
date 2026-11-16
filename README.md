@@ -40,6 +40,12 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 |---|---|---|---|
 | AA-Experiments | Inspecciona y cambia los experimentos de Android Auto con LSPosed. | [koriano1980/AA-Experiments](https://github.com/koriano1980/AA-Experiments) | [HighwindBR/AA-Experiments](https://github.com/HighwindBR/AA-Experiments) |
 
+## 🎬 Video e IA
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| hyperframes | Editor de video para agentes de IA (HyperFrames Studio): le escribes un mensaje y arma o edita la línea de tiempo; también se edita a mano y se exporta a MP4 en tu Mac. | [koriano1980/hyperframes](https://github.com/koriano1980/hyperframes) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) |
+
 ## 💡 Planes y proyectos propios (privados)
 
 | Proyecto | Qué es |

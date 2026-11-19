@@ -16,6 +16,12 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 | AiSOC | Centro de seguridad con IA: junta alertas y las clasifica con agentes. | [koriano1980/AiSOC](https://github.com/koriano1980/AiSOC) | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) |
 | geo-recon | Consulta la ubicación aproximada y la reputación de una IP desde la terminal. | [koriano1980/geo-recon](https://github.com/koriano1980/geo-recon) | [radioactivetobi/geo-recon](https://github.com/radioactivetobi/geo-recon) |
 
+## 🌍 Mapas / OSINT
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| gods-eye-view | Globo 3D en el navegador con vuelos, barcos, satélites, cámaras y otros datos públicos en vivo. Se instala en tu Mac y corre en local. | [koriano1980/gods-eye-view](https://github.com/koriano1980/gods-eye-view) | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) |
+
 ## 🔒 Seguridad / Claude Code
 
 | Programa | Qué hace | Mi copia | Original |
@@ -100,6 +106,16 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 | Programa | Qué hace | Mi copia | Original |
 |---|---|---|---|
 | enjambre-agentes-mac | App nativa para Mac: varios agentes locales y en línea que controlan la máquina por voz o a distancia, con cursores animados. | [koriano1980/enjambre-agentes-mac](https://github.com/koriano1980/enjambre-agentes-mac) | Propio. |
+
+## 🧾 Identificados, sin repositorio público
+
+Herramientas vistas en reels cuyo código no está publicado. No hay fork porque no existe un repo oficial.
+
+| Programa | Qué hace | Sitio | Notas |
+|---|---|---|---|
+| Pazi | Agentes de IA en la web que, a partir de una idea, arman el negocio: sitio, anuncios, correos y redes. | [pazi.ai](https://pazi.ai/) | No hay repositorio oficial público. |
+| ARGOS ATLAS | Mapa mundial en el navegador con cámaras, vuelos, barcos e infraestructura, sin instalar nada. | [argosatlas.com](https://argosatlas.com/) | No hay repositorio oficial público. Lo más cercano de código abierto es [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) (arriba). |
+| PagePilot | Constructor de páginas de producto con IA para tiendas de Shopify. | [pagepilot.ai](https://pagepilot.ai/) | No hay repositorio oficial público. |
 
 ## 💡 Planes y proyectos propios (privados)
 

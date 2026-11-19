@@ -16,6 +16,12 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 | AiSOC | Centro de seguridad con IA: junta alertas y las clasifica con agentes. | [koriano1980/AiSOC](https://github.com/koriano1980/AiSOC) | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) |
 | geo-recon | Consulta la ubicación aproximada y la reputación de una IP desde la terminal. | [koriano1980/geo-recon](https://github.com/koriano1980/geo-recon) | [radioactivetobi/geo-recon](https://github.com/radioactivetobi/geo-recon) |
 
+## 🔒 Seguridad / Claude Code
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| SkillSpector | Escáner de NVIDIA que revisa skills de agentes de IA (Claude Code y otros) en busca de vulnerabilidades o código malicioso antes de instalarlas. | [koriano1980/SkillSpector](https://github.com/koriano1980/SkillSpector) | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) |
+
 ## 🕷️ Extracción de datos web
 
 | Programa | Qué hace | Mi copia | Original |
@@ -27,6 +33,12 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 | Programa | Qué hace | Mi copia | Original |
 |---|---|---|---|
 | TwinDesk | Une tus computadoras y tu teléfono como un solo escritorio: pantallas, apps, archivos y portapapeles. | [koriano1980/TwinDesk](https://github.com/koriano1980/TwinDesk) | [InukaAsith/TwinDesk](https://github.com/InukaAsith/TwinDesk) |
+
+## 🍏 Utilidades macOS
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| findphone | Localiza un iPhone u otro dispositivo Apple cercano por la señal Bluetooth, desde la terminal de tu Mac, cuando Buscar no está disponible. | [koriano1980/findphone](https://github.com/koriano1980/findphone) | [ben-z/findphone](https://github.com/ben-z/findphone) |
 
 ## 📱 iPhone / Widgets
 
@@ -40,11 +52,54 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 |---|---|---|---|
 | AA-Experiments | Inspecciona y cambia los experimentos de Android Auto con LSPosed. | [koriano1980/AA-Experiments](https://github.com/koriano1980/AA-Experiments) | [HighwindBR/AA-Experiments](https://github.com/HighwindBR/AA-Experiments) |
 
+## 🧠 IA local / LLM
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| koboldcpp | Corre modelos de IA (GGUF) en tu propia computadora, con chat, imágenes, voz y un agente, en un solo ejecutable. | [koriano1980/koboldcpp](https://github.com/koriano1980/koboldcpp) | [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) |
+
 ## 🎬 Video e IA
 
 | Programa | Qué hace | Mi copia | Original |
 |---|---|---|---|
 | hyperframes | Editor de video para agentes de IA (HyperFrames Studio): le escribes un mensaje y arma o edita la línea de tiempo; también se edita a mano y se exporta a MP4 en tu Mac. | [koriano1980/hyperframes](https://github.com/koriano1980/hyperframes) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) |
+| AI-Youtube-Shorts-Generator | Convierte un video largo de YouTube en shorts verticales listos para TikTok, Reels y Shorts, con transcripción e IA. | [koriano1980/AI-Youtube-Shorts-Generator](https://github.com/koriano1980/AI-Youtube-Shorts-Generator) | [Anil-matcha/AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) |
+
+## 👁️ 3D / Three.js
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| procedural-eye | Demo en three.js de un ojo humano hiperrealista y procedural, con iris, párpados, luz y modo foto. | [koriano1980/procedural-eye](https://github.com/koriano1980/procedural-eye) | [rock-biter/procedural-eye](https://github.com/rock-biter/procedural-eye) |
+
+## 🧩 3D / Simuladores
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| teardown | Skill de Claude Code que arma un simulador 3D desmontable de cualquier máquina en una sola página HTML. | [koriano1980/teardown](https://github.com/koriano1980/teardown) | [elvarofficial/teardown](https://github.com/elvarofficial/teardown) |
+
+## 🎮 Juegos / Mods
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| universal-modder | Skills y herramientas para que un agente de IA cree mods de casi cualquier juego de PC que tengas. | [koriano1980/universal-modder](https://github.com/koriano1980/universal-modder) | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) |
+
+## 🎨 Gráficos
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| draw-beautiful | Skill de Claude Code que construye un objeto en 3D, lo ilumina y lo convierte en un grabado con líneas, al estilo de un billete. | [koriano1980/draw-beautiful](https://github.com/koriano1980/draw-beautiful) | [bumicodes/draw-beautiful](https://github.com/bumicodes/draw-beautiful) |
+
+## 🌐 Web / Portafolios
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| xikhar.github.io | Sitio de GitHub Pages con compilaciones publicadas (incluye el proyecto Sumiro). | [koriano1980/xikhar.github.io](https://github.com/koriano1980/xikhar.github.io) | [xikhar/xikhar.github.io](https://github.com/xikhar/xikhar.github.io) |
+
+## 🤖 Proyectos propios / Agentes
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| enjambre-agentes-mac | App nativa para Mac: varios agentes locales y en línea que controlan la máquina por voz o a distancia, con cursores animados. | [koriano1980/enjambre-agentes-mac](https://github.com/koriano1980/enjambre-agentes-mac) | Propio. |
 
 ## 💡 Planes y proyectos propios (privados)
 

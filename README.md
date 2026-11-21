@@ -64,6 +64,12 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 |---|---|---|---|
 | koboldcpp | Corre modelos de IA (GGUF) en tu propia computadora, con chat, imágenes, voz y un agente, en un solo ejecutable. | [koriano1980/koboldcpp](https://github.com/koriano1980/koboldcpp) | [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) |
 
+## 🧪 Simulación social / predicción
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| MiroFish | Simula una red social con miles de agentes de IA para probar una idea y te entrega un informe; luego puedes entrevistar a esos agentes. Se instala en la Mac. Necesita una clave de Zep Cloud y un modelo de lenguaje (Ollama en local o una API). Guía: [INSTALAR-MAC.md](https://github.com/koriano1980/MiroFish/blob/main/INSTALAR-MAC.md). | [koriano1980/MiroFish](https://github.com/koriano1980/MiroFish) | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) |
+
 ## 🎬 Video e IA
 
 | Programa | Qué hace | Mi copia | Original |

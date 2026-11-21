@@ -101,6 +101,12 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 |---|---|---|---|
 | xikhar.github.io | Sitio de GitHub Pages con compilaciones publicadas (incluye el proyecto Sumiro). | [koriano1980/xikhar.github.io](https://github.com/koriano1980/xikhar.github.io) | [xikhar/xikhar.github.io](https://github.com/xikhar/xikhar.github.io) |
 
+## 💰 Cripto / DeFi
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| Uniswap v3-core | Contratos del exchange descentralizado Uniswap v3: los pools donde pones dos monedas (por ejemplo cbBTC y USDC) y cobras parte de la comisión de cada intercambio. Es código de blockchain, no una app para instalar en la Mac. | [koriano1980/v3-core](https://github.com/koriano1980/v3-core) | [Uniswap/v3-core](https://github.com/Uniswap/v3-core) |
+
 ## 🤖 Proyectos propios / Agentes
 
 | Programa | Qué hace | Mi copia | Original |

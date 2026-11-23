@@ -69,6 +69,7 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 | Programa | Qué hace | Mi copia | Original |
 |---|---|---|---|
 | MiroFish | Simula una red social con miles de agentes de IA para probar una idea y te entrega un informe; luego puedes entrevistar a esos agentes. Se instala en la Mac. Necesita una clave de Zep Cloud y un modelo de lenguaje (Ollama en local o una API). Guía: [INSTALAR-MAC.md](https://github.com/koriano1980/MiroFish/blob/main/INSTALAR-MAC.md). | [koriano1980/MiroFish](https://github.com/koriano1980/MiroFish) | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) |
+| Sybil-Swarm | Panel de clientes sintéticos: decenas de personas simuladas con IA evalúan un producto (compra, precio, objeciones) y entregan un informe con puntaje. Instalado en la Mac mini con Ollama local, sin APIs pagas; lo usan los bots de Amazon y Hotmart para buscar productos ganadores. | [koriano1980/Sybil-Swarm](https://github.com/koriano1980/Sybil-Swarm) | [nghiahsgs/Sybil-Swarm](https://github.com/nghiahsgs/Sybil-Swarm) |
 
 ## 🎬 Video e IA
 

@@ -63,6 +63,7 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 | Programa | Qué hace | Mi copia | Original |
 |---|---|---|---|
 | koboldcpp | Corre modelos de IA (GGUF) en tu propia computadora, con chat, imágenes, voz y un agente, en un solo ejecutable. | [koriano1980/koboldcpp](https://github.com/koriano1980/koboldcpp) | [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) |
+| Nemotron | Recetas, guías y ejemplos de NVIDIA para entrenar y usar la familia Nemotron. Incluye Nemotron 3 Ultra (550 mil millones de parámetros, 1 millón de tokens de contexto). Se prueba gratis en [build.nvidia.com](https://build.nvidia.com); correr Ultra en local requiere un clúster, no una Mac. | [koriano1980/Nemotron](https://github.com/koriano1980/Nemotron) | [NVIDIA-NeMo/Nemotron](https://github.com/NVIDIA-NeMo/Nemotron) |
 
 ## 🧪 Simulación social / predicción
 

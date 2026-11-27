@@ -28,6 +28,7 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 | Programa | Qué hace | Mi copia | Original |
 |---|---|---|---|
 | SkillSpector | Escáner de NVIDIA que revisa skills de agentes de IA (Claude Code y otros) en busca de vulnerabilidades o código malicioso antes de instalarlas. | [koriano1980/SkillSpector](https://github.com/koriano1980/SkillSpector) | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) |
+| Claude-BugHunter | Kit de skills para Claude Code (MIT, de un tercero, no de Anthropic) para bug bounty autorizado: metodología, patrones de reportes públicos ya divulgados y plantillas para redactar informes. El reel de Nino Director lo muestra como “kit abierto” para buscar fallas fáciles en programas que pagan (p. ej. Meta Bug Bounty). Solo se usa en activos en alcance, con cuentas de prueba propias; no garantiza un pago. Corre en la Mac mini M4 porque ya tiene Claude Code. Antes de instalarlo, conviene revisarlo con SkillSpector. | [koriano1980/Claude-BugHunter](https://github.com/koriano1980/Claude-BugHunter) | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) |
 
 ## 🗺️ Claude Code / Grafo de código
 

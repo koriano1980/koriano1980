@@ -42,6 +42,12 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 |---|---|---|---|
 | ECC | Sistema open-source (MIT) de Affaan Mustafa, ganador de un hackathon de Anthropic: convierte Claude Code (y también Codex, Cursor, OpenCode y OpenClaw) en un equipo con 72 agentes, 328 skills, 99 comandos, memoria unificada, instintos que aprenden de cómo trabajas, y AgentShield para revisar la seguridad del harness. El kit local es gratis (`npx ecc-universal@2.2.3 setup`; hace falta Node.js 18+, Git y Claude Code 2.1+). Corre en la Mac mini M4 (macOS es plataforma soportada). ECC Pro / GitHub App para repos privados cuesta USD 19/asiento/mes; no hace falta para usarlo en local. Instálalo solo del repo oficial o de [ecc.tools](https://ecc.tools), hay copias falsas. | [koriano1980/ECC](https://github.com/koriano1980/ECC) | [affaan-m/ECC](https://github.com/affaan-m/ECC) |
 
+## 🛠️ Claude Code / Skills de ingeniería
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| skills | Colección oficial de Matt Pocock (MIT): skills pequeñas y componibles para Claude Code (también Codex, Copilot, Cursor y OpenCode). El flujo es entrevista → spec → tickets → código. La más usada es `/grill-me`: te interroga el plan hasta encontrar agujeros, sin escribir código. También trae `/to-spec`, `/to-tickets`, `/implement`, `/tdd` y `/grill-with-docs` (~27 skills). Gratis y open-source; se instala con `claude plugin install mattpocock-skills@claude-plugins-official` (se actualiza solo). Corre en la Mac mini M4 y en la MacBook Pro M4 porque ya tienen Claude Code. No pisa Graphify ni tu vault de Obsidian; no instales a la vez el plugin oficial y `npx skills` en el mismo agente, porque duplicaría las skills. | [koriano1980/skills](https://github.com/koriano1980/skills) | [mattpocock/skills](https://github.com/mattpocock/skills) |
+
 ## 🕷️ Extracción de datos web
 
 | Programa | Qué hace | Mi copia | Original |

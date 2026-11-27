@@ -139,6 +139,12 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 |---|---|---|---|
 | Uniswap v3-core | Contratos del exchange descentralizado Uniswap v3: los pools donde pones dos monedas (por ejemplo cbBTC y USDC) y cobras parte de la comisión de cada intercambio. Es código de blockchain, no una app para instalar en la Mac. | [koriano1980/v3-core](https://github.com/koriano1980/v3-core) | [Uniswap/v3-core](https://github.com/Uniswap/v3-core) |
 
+## 📈 Trading / Claude Code
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| day-trader-skill | 11 skills de Claude Code (MIT, de Jake Schincariol) para day trading: escanea gráficos, sigue noticias, cronometra entradas y salidas, y una Time Machine que simula el resto de la sesión 10.000 veces antes de arriesgar un dólar. Gratis, sin registro, Python estándar y datos públicos (Yahoo Finance, SEC). El paper trading es el valor por defecto; `/trader-broker` se conecta al MCP de Alpaca (cuenta paper por defecto) y no envía ninguna orden sin un “sí” explícito. Corre en la Mac mini M4 (ya tiene Claude Code y Python 3.8+). No es consejo financiero ni garantiza ganancias. | [koriano1980/day-trader-skill](https://github.com/koriano1980/day-trader-skill) | [Jakeschincariol/day-trader-skill](https://github.com/Jakeschincariol/day-trader-skill) |
+
 ## 🤖 Proyectos propios / Agentes
 
 | Programa | Qué hace | Mi copia | Original |

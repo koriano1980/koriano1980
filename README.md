@@ -52,6 +52,12 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 |---|---|---|---|
 | att-usage-widget | Widget de Scriptable para ver el consumo de datos de AT&T en Estados Unidos (prepago o pospago). | [koriano1980/att-usage-widget](https://github.com/koriano1980/att-usage-widget) | Propio. AT&T US no tiene API pública; el post de BAIT/AT&T México no publicó repo. Lo más cercano para México es [amaynez/telcel-widget-agy](https://github.com/amaynez/telcel-widget-agy). |
 
+## 📱 Agentes de IA / móvil
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| phone-harness | Deja que Claude Code u otro agente use tu iPhone o Android: toca, escribe y desplaza como tú, sin jailbreak ni app en el teléfono. En la Mac se conecta con iPhone Mirroring (iOS 18+) o con adb para Android. Usar tu propio móvil es gratis (MIT); la nube de iPhones/Androids es de pago. | [koriano1980/phone-harness](https://github.com/koriano1980/phone-harness) | [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness) |
+
 ## 🚗 Autos / Tesla y Android Auto
 
 | Programa | Qué hace | Mi copia | Original |

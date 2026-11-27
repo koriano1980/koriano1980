@@ -35,6 +35,12 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 |---|---|---|---|
 | graphify | Convierte un repositorio (código, docs, SQL, configs y PDFs) en un grafo de conocimiento que Claude Code u otro agente consulta en vez de releer todo el proyecto. El código se analiza en local con tree-sitter, sin vector store ni cuenta. Es gratis y open-source (Apache 2.0) y corre en la Mac mini M4 (Python 3.11.5+ y uv). El producto alojado en [graphify.com](https://graphify.com) es aparte (Free hasta 3 repos; Pro desde USD 10/mes anual). | [koriano1980/graphify](https://github.com/koriano1980/graphify) | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) |
 
+## 🧭 Claude Code / Equipo de agentes
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| ECC | Sistema open-source (MIT) de Affaan Mustafa, ganador de un hackathon de Anthropic: convierte Claude Code (y también Codex, Cursor, OpenCode y OpenClaw) en un equipo con 72 agentes, 328 skills, 99 comandos, memoria unificada, instintos que aprenden de cómo trabajas, y AgentShield para revisar la seguridad del harness. El kit local es gratis (`npx ecc-universal@2.2.3 setup`; hace falta Node.js 18+, Git y Claude Code 2.1+). Corre en la Mac mini M4 (macOS es plataforma soportada). ECC Pro / GitHub App para repos privados cuesta USD 19/asiento/mes; no hace falta para usarlo en local. Instálalo solo del repo oficial o de [ecc.tools](https://ecc.tools), hay copias falsas. | [koriano1980/ECC](https://github.com/koriano1980/ECC) | [affaan-m/ECC](https://github.com/affaan-m/ECC) |
+
 ## 🕷️ Extracción de datos web
 
 | Programa | Qué hace | Mi copia | Original |

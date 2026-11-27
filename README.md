@@ -52,10 +52,11 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 |---|---|---|---|
 | att-usage-widget | Widget de Scriptable para ver el consumo de datos de AT&T en Estados Unidos (prepago o pospago). | [koriano1980/att-usage-widget](https://github.com/koriano1980/att-usage-widget) | Propio. AT&T US no tiene API pública; el post de BAIT/AT&T México no publicó repo. Lo más cercano para México es [amaynez/telcel-widget-agy](https://github.com/amaynez/telcel-widget-agy). |
 
-## 🚗 Android Auto
+## 🚗 Autos / Tesla y Android Auto
 
 | Programa | Qué hace | Mi copia | Original |
 |---|---|---|---|
+| custom-wraps | Plantillas oficiales de Tesla en PNG (512×512 a 1024×1024) para crear wraps personalizados y cargarlos en la vista 3D del carro desde la app de Tesla o por USB (Toybox → Paint Shop → Wraps). | [koriano1980/custom-wraps](https://github.com/koriano1980/custom-wraps) | [teslamotors/custom-wraps](https://github.com/teslamotors/custom-wraps) |
 | AA-Experiments | Inspecciona y cambia los experimentos de Android Auto con LSPosed. | [koriano1980/AA-Experiments](https://github.com/koriano1980/AA-Experiments) | [HighwindBR/AA-Experiments](https://github.com/HighwindBR/AA-Experiments) |
 
 ## 🧠 IA local / LLM
@@ -119,7 +120,7 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 
 | Programa | Qué hace | Mi copia | Original |
 |---|---|---|---|
-| enjambre-agentes-mac | App nativa para Mac: varios agentes locales y en línea que controlan la máquina por voz o a distancia, con cursores animados. | [koriano1980/enjambre-agentes-mac](https://github.com/koriano1980/enjambre-agentes-mac) | Propio. |
+| enjambre-agentes-mac | App nativa para Mac: varios agentes locales y en línea que controlan la Mac por voz o a distancia, con cursores animados. | [koriano1980/enjambre-agentes-mac](https://github.com/koriano1980/enjambre-agentes-mac) | Propio. |
 
 ## 🧾 Identificados, sin repositorio público
 

@@ -65,6 +65,7 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 |---|---|---|---|
 | koboldcpp | Corre modelos de IA (GGUF) en tu propia computadora, con chat, imágenes, voz y un agente, en un solo ejecutable. | [koriano1980/koboldcpp](https://github.com/koriano1980/koboldcpp) | [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) |
 | Nemotron | Recetas, guías y ejemplos de NVIDIA para entrenar y usar la familia Nemotron. Incluye Nemotron 3 Ultra (550 mil millones de parámetros, 1 millón de tokens de contexto). Se prueba gratis en [build.nvidia.com](https://build.nvidia.com); correr Ultra en local requiere un clúster, no una Mac. | [koriano1980/Nemotron](https://github.com/koriano1980/Nemotron) | [NVIDIA-NeMo/Nemotron](https://github.com/NVIDIA-NeMo/Nemotron) |
+| tinker-cookbook (Inkling 2 Mini) | Recetas oficiales de Thinking Machines Lab para usar y entrenar la familia Inkling. Inkling 2 Mini es un modelo open-weight (Apache 2.0) multimodal de 26,4B parámetros (looped transformer) que reutiliza capas para razonar mejor; corre en local en Mac con llama.cpp, MLX u Ollama (GGUF Q4 ~16,6 GB; se recomiendan 32 GB de memoria unificada). Pesas: [Hugging Face](https://huggingface.co/thinkingmachines/Inkling-2-Mini). | [koriano1980/tinker-cookbook](https://github.com/koriano1980/tinker-cookbook) | [thinking-machines-lab/tinker-cookbook](https://github.com/thinking-machines-lab/tinker-cookbook) |
 
 ## 🧪 Simulación social / predicción
 

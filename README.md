@@ -28,6 +28,12 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 |---|---|---|---|
 | SkillSpector | Escáner de NVIDIA que revisa skills de agentes de IA (Claude Code y otros) en busca de vulnerabilidades o código malicioso antes de instalarlas. | [koriano1980/SkillSpector](https://github.com/koriano1980/SkillSpector) | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) |
 
+## 🗺️ Claude Code / Grafo de código
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| graphify | Convierte un repositorio (código, docs, SQL, configs y PDFs) en un grafo de conocimiento que Claude Code u otro agente consulta en vez de releer todo el proyecto. El código se analiza en local con tree-sitter, sin vector store ni cuenta. Es gratis y open-source (Apache 2.0) y corre en la Mac mini M4 (Python 3.11.5+ y uv). El producto alojado en [graphify.com](https://graphify.com) es aparte (Free hasta 3 repos; Pro desde USD 10/mes anual). | [koriano1980/graphify](https://github.com/koriano1980/graphify) | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) |
+
 ## 🕷️ Extracción de datos web
 
 | Programa | Qué hace | Mi copia | Original |

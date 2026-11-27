@@ -15,6 +15,7 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 |---|---|---|---|
 | AiSOC | Centro de seguridad con IA: junta alertas y las clasifica con agentes. | [koriano1980/AiSOC](https://github.com/koriano1980/AiSOC) | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) |
 | geo-recon | Consulta la ubicación aproximada y la reputación de una IP desde la terminal. | [koriano1980/geo-recon](https://github.com/koriano1980/geo-recon) | [radioactivetobi/geo-recon](https://github.com/radioactivetobi/geo-recon) |
+| RedTeam-Tools | Catálogo de referencia (no es un paquete instalable: el repo solo trae un README) con 150+ herramientas y recursos de red teaming / hacking ético, organizados por fases. Cada entrada enlaza al proyecto original; el autor lo marca como informativo y educativo. | [koriano1980/RedTeam-Tools](https://github.com/koriano1980/RedTeam-Tools) | [A-poc/RedTeam-Tools](https://github.com/A-poc/RedTeam-Tools) |
 
 ## 🌍 Mapas / OSINT
 

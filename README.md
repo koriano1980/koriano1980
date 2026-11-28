@@ -77,6 +77,7 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 | Programa | Qué hace | Mi copia | Original |
 |---|---|---|---|
 | phone-harness | Deja que Claude Code u otro agente use tu iPhone o Android: toca, escribe y desplaza como tú, sin jailbreak ni app en el teléfono. En la Mac se conecta con iPhone Mirroring (iOS 18+) o con adb para Android. Usar tu propio móvil es gratis (MIT); la nube de iPhones/Androids es de pago. | [koriano1980/phone-harness](https://github.com/koriano1980/phone-harness) | [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness) |
+| mobile-mcp | Servidor MCP de Mobile Next (Apache 2.0) para que Claude Code, Codex, Gemini u otro cliente MCP controle un iPhone o Android: abre apps, pulsa, escribe, hace gestos, instala apps y automatiza pruebas. Funciona con simuladores, emuladores y dispositivos reales por USB. El uso local es gratis (`npx @mobilenext/mobile-mcp@latest`); [Mobile Next Cloud](https://mobilenext.ai) es opcional y de pago (Hobby gratis 10 min/día; Starter USD 29/mes). Corre en la Mac mini M4 y en la MacBook Pro M4 (hace falta Node.js 20+; el simulador de iOS necesita Xcode; Android usa adb). No reemplaza ECC, Graphify ni Obsidian: le da a Claude Code un teléfono para probar apps nativas. | [koriano1980/mobile-mcp](https://github.com/koriano1980/mobile-mcp) | [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) |
 
 ## 🚗 Autos / Tesla y Android Auto
 

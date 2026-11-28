@@ -111,6 +111,12 @@ Cada programa con su repositorio. Las copias (forks) apuntan al proyecto origina
 | hyperframes | Editor de video para agentes de IA (HyperFrames Studio): le escribes un mensaje y arma o edita la línea de tiempo; también se edita a mano y se exporta a MP4 en tu Mac. | [koriano1980/hyperframes](https://github.com/koriano1980/hyperframes) | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) |
 | AI-Youtube-Shorts-Generator | Convierte un video largo de YouTube en shorts verticales listos para TikTok, Reels y Shorts, con transcripción e IA. | [koriano1980/AI-Youtube-Shorts-Generator](https://github.com/koriano1980/AI-Youtube-Shorts-Generator) | [Anil-matcha/AI-Youtube-Shorts-Generator](https://github.com/Anil-matcha/AI-Youtube-Shorts-Generator) |
 
+## 🎙️ Voz / MCP
+
+| Programa | Qué hace | Mi copia | Original |
+|---|---|---|---|
+| elevenlabs-mcp | Servidor MCP oficial de ElevenLabs (MIT) para que un agente (Claude Code, Cursor, OpenClaw u otro) genere voz, transcriba audio, diseñe voces, efectos, música, imágenes y video, y administre agentes de ElevenLabs. El repo local está archivado y deprecado: lo actual es el servidor alojado en [api.elevenlabs.io/v1/mcp](https://api.elevenlabs.io/v1/mcp) (OAuth, sin instalar nada ni copiar la clave de API). El conector es gratis de añadir, pero cada generación gasta créditos de una cuenta de ElevenLabs. El plan Free da 10.000 créditos al mes (~10–11 min de voz en v4/v3, o ~18–21 min en Flash/Turbo), no se acumulan, no permite uso comercial y obliga a poner “elevenlabs.io” o “11.ai” en el título. Para YouTube, Hotmart u otro uso comercial hace falta un plan de pago (el más barato es Starter: USD 60/año, ~USD 5/mes, 30.000 créditos). Corre en la Mac mini M4 y en la MacBook Pro M4: Claude Code (`claude mcp add --transport http elevenlabs https://api.elevenlabs.io/v1/mcp`) y OpenClaw (MCP HTTP con OAuth) pueden usar el servidor alojado, sin clonar este repo. Alternativa local y gratis: [mlx-audio](https://github.com/Blaizzy/mlx-audio) con Kokoro-82M (MIT/Apache 2.0, voces en español, corre en Apple Silicon sin créditos). Docs: [elevenlabs.io/docs](https://elevenlabs.io/docs/eleven-api/resources/mcp-server). | [koriano1980/elevenlabs-mcp](https://github.com/koriano1980/elevenlabs-mcp) | [elevenlabs/elevenlabs-mcp](https://github.com/elevenlabs/elevenlabs-mcp) |
+
 ## 👁️ 3D / Three.js
 
 | Programa | Qué hace | Mi copia | Original |
